@@ -1,10 +1,10 @@
 # Kim Thanh 
 
-###Geography
+### Geography
 
 I live in Ho Chi Minh city, Vietnam.
 
-###Reading
+### Reading
 
 Three of my favorite books are:
 -*Harry Potter* by J.K.Rowling
