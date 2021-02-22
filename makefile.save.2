@@ -1,0 +1,9 @@
+draft Oregon.txt":
+touch Oregon.txt
+Oregon.txt: toc.txt
+echo "This journal contains the following number of entries:">Oregon.txt
+wc -l toc.txt | egrep -o "[0-9]+" >> Oregon.txt
+cat Oregon.txt
+q
+q
+
