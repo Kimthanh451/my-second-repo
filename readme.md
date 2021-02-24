@@ -7,9 +7,9 @@ I live in Ho Chi Minh city, Vietnam.
 ### Reading
 
 Three of my favorite books are:
--*Harry Potter* by J.K.Rowling
--*Kill the mocking bird* by Harper Lee
--*Sherlock Holmes* by Conan Doyle
+- *Harry Potter* by J.K.Rowling
+- *Kill the mocking bird* by Harper Lee
+- *Sherlock Holmes* by Conan Doyle
 
 ### Food
 

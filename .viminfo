@@ -12,9 +12,13 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1613577287,,"wq"
+|2,0,1614165769,,"wq"
 :Wq
-|2,0,1613133909,,"Wq"
+|2,0,1614088811,,"Wq"
+:wd
+|2,0,1614050517,,"wd"
+:thanh.txt
+|2,0,1614050513,,"thanh.txt"
 :w
 |2,0,1611412093,,"w"
 :wq!
@@ -29,235 +33,326 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+"a	CHAR	0
+	€kb€ıaw€kb
+|3,0,10,0,1,0,1614050528,"€kb€ıaw€kb"
 ""-	CHAR	0
 	h
 |3,1,36,0,1,0,1611628244,"h"
 
 # File marks:
-'0  1  0  ~/plier2.sh
-|4,48,1,0,1613578199,"~/plier2.sh"
-'1  3  7  ~/k
-|4,49,3,7,1613577288,"~/k"
-'2  3  16  ~/k
-|4,50,3,16,1613577251,"~/k"
-'3  6  44  ~/books.txt
-|4,51,6,44,1613134962,"~/books.txt"
-'4  3  0  ~/quote.txt
-|4,52,3,0,1613133911,"~/quote.txt"
-'5  1  0  ~/quote.txt
-|4,53,1,0,1613133857,"~/quote.txt"
-'6  1  0  ~/quote.txt
-|4,54,1,0,1613133857,"~/quote.txt"
-'7  15  0  ~/canada.txt
-|4,55,15,0,1612239276,"~/canada.txt"
-'8  2  7  ~/isiteven.sh
-|4,56,2,7,1611670557,"~/isiteven.sh"
-'9  2  7  ~/isiteven.sh
-|4,57,2,7,1611670548,"~/isiteven.sh"
+'0  12  1  ~/readme.md
+|4,48,12,1,1614165769,"~/readme.md"
+'1  1  0  ~/my-first-repo/readme.md
+|4,49,1,0,1614165168,"~/my-first-repo/readme.md"
+'2  5  0  ~/thanh.txt
+|4,50,5,0,1614088813,"~/thanh.txt"
+'3  1  0  ~/thanh1.txt
+|4,51,1,0,1614088764,"~/thanh1.txt"
+'4  1  0  ~/awk_example1.sh
+|4,52,1,0,1614087657,"~/awk_example1.sh"
+'5  3  0  ~/loop.sh
+|4,53,3,0,1614056489,"~/loop.sh"
+'6  10  3  ~/loop.sh
+|4,54,10,3,1614056425,"~/loop.sh"
+'7  9  3  ~/loop.sh
+|4,55,9,3,1614056425,"~/loop.sh"
+'8  11  25  ~/dirtest.sh
+|4,56,11,25,1614055960,"~/dirtest.sh"
+'9  14  6  ~/dirtest.sh
+|4,57,14,6,1614055916,"~/dirtest.sh"
 
 # Jumplist (newest first):
--'  1  0  ~/plier2.sh
-|4,39,1,0,1613578199,"~/plier2.sh"
--'  3  7  ~/k
-|4,39,3,7,1613577288,"~/k"
--'  3  16  ~/k
-|4,39,3,16,1613577251,"~/k"
--'  1  0  ~/k
-|4,39,1,0,1613577228,"~/k"
--'  1  0  ~/k
-|4,39,1,0,1613577228,"~/k"
--'  6  44  ~/books.txt
-|4,39,6,44,1613134962,"~/books.txt"
--'  6  44  ~/books.txt
-|4,39,6,44,1613134962,"~/books.txt"
--'  6  44  ~/books.txt
-|4,39,6,44,1613134962,"~/books.txt"
--'  6  44  ~/books.txt
-|4,39,6,44,1613134962,"~/books.txt"
--'  6  44  ~/books.txt
-|4,39,6,44,1613134962,"~/books.txt"
--'  1  0  ~/books.txt
-|4,39,1,0,1613134126,"~/books.txt"
--'  1  0  ~/books.txt
-|4,39,1,0,1613134126,"~/books.txt"
--'  1  0  ~/books.txt
-|4,39,1,0,1613134126,"~/books.txt"
--'  1  0  ~/books.txt
-|4,39,1,0,1613134126,"~/books.txt"
--'  1  0  ~/books.txt
-|4,39,1,0,1613134126,"~/books.txt"
--'  3  0  ~/quote.txt
-|4,39,3,0,1613133911,"~/quote.txt"
--'  3  0  ~/quote.txt
-|4,39,3,0,1613133911,"~/quote.txt"
--'  3  0  ~/quote.txt
-|4,39,3,0,1613133911,"~/quote.txt"
--'  3  0  ~/quote.txt
-|4,39,3,0,1613133911,"~/quote.txt"
--'  3  0  ~/quote.txt
-|4,39,3,0,1613133911,"~/quote.txt"
--'  3  0  ~/quote.txt
-|4,39,3,0,1613133911,"~/quote.txt"
--'  3  0  ~/quote.txt
-|4,39,3,0,1613133911,"~/quote.txt"
--'  3  0  ~/quote.txt
-|4,39,3,0,1613133911,"~/quote.txt"
--'  3  0  ~/quote.txt
-|4,39,3,0,1613133911,"~/quote.txt"
--'  3  0  ~/quote.txt
-|4,39,3,0,1613133911,"~/quote.txt"
--'  1  0  ~/quote.txt
-|4,39,1,0,1613133859,"~/quote.txt"
--'  1  0  ~/quote.txt
-|4,39,1,0,1613133859,"~/quote.txt"
--'  1  0  ~/quote.txt
-|4,39,1,0,1613133859,"~/quote.txt"
--'  1  0  ~/quote.txt
-|4,39,1,0,1613133859,"~/quote.txt"
--'  1  0  ~/quote.txt
-|4,39,1,0,1613133859,"~/quote.txt"
--'  1  0  ~/quote.txt
-|4,39,1,0,1613133859,"~/quote.txt"
--'  1  0  ~/quote.txt
-|4,39,1,0,1613133859,"~/quote.txt"
--'  1  0  ~/quote.txt
-|4,39,1,0,1613133859,"~/quote.txt"
--'  1  0  ~/quote.txt
-|4,39,1,0,1613133859,"~/quote.txt"
--'  1  0  ~/quote.txt
-|4,39,1,0,1613133859,"~/quote.txt"
--'  1  0  ~/quote.txt
-|4,39,1,0,1613133857,"~/quote.txt"
--'  1  0  ~/quote.txt
-|4,39,1,0,1613133857,"~/quote.txt"
--'  1  0  ~/quote.txt
-|4,39,1,0,1613133857,"~/quote.txt"
--'  1  0  ~/quote.txt
-|4,39,1,0,1613133857,"~/quote.txt"
--'  1  0  ~/quote.txt
-|4,39,1,0,1613133857,"~/quote.txt"
--'  1  0  ~/quote.txt
-|4,39,1,0,1613133857,"~/quote.txt"
--'  1  0  ~/quote.txt
-|4,39,1,0,1613133857,"~/quote.txt"
--'  1  0  ~/quote.txt
-|4,39,1,0,1613133857,"~/quote.txt"
--'  1  0  ~/quote.txt
-|4,39,1,0,1613133857,"~/quote.txt"
--'  1  0  ~/quote.txt
-|4,39,1,0,1613133857,"~/quote.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  15  0  ~/canada.txt
-|4,39,15,0,1612239276,"~/canada.txt"
--'  2  7  ~/isiteven.sh
-|4,39,2,7,1611670557,"~/isiteven.sh"
--'  2  7  ~/isiteven.sh
-|4,39,2,7,1611670557,"~/isiteven.sh"
--'  2  7  ~/isiteven.sh
-|4,39,2,7,1611670557,"~/isiteven.sh"
--'  2  7  ~/isiteven.sh
-|4,39,2,7,1611670557,"~/isiteven.sh"
--'  2  7  ~/isiteven.sh
-|4,39,2,7,1611670557,"~/isiteven.sh"
--'  2  7  ~/isiteven.sh
-|4,39,2,7,1611670557,"~/isiteven.sh"
--'  2  7  ~/isiteven.sh
-|4,39,2,7,1611670557,"~/isiteven.sh"
--'  2  7  ~/isiteven.sh
-|4,39,2,7,1611670557,"~/isiteven.sh"
--'  2  7  ~/isiteven.sh
-|4,39,2,7,1611670557,"~/isiteven.sh"
--'  2  7  ~/isiteven.sh
-|4,39,2,7,1611670557,"~/isiteven.sh"
--'  2  7  ~/isiteven.sh
-|4,39,2,7,1611670557,"~/isiteven.sh"
--'  2  7  ~/isiteven.sh
-|4,39,2,7,1611670557,"~/isiteven.sh"
--'  2  7  ~/isiteven.sh
-|4,39,2,7,1611670557,"~/isiteven.sh"
--'  2  7  ~/isiteven.sh
-|4,39,2,7,1611670557,"~/isiteven.sh"
--'  2  7  ~/isiteven.sh
-|4,39,2,7,1611670557,"~/isiteven.sh"
+-'  12  1  ~/readme.md
+|4,39,12,1,1614165769,"~/readme.md"
+-'  1  0  ~/readme.md
+|4,39,1,0,1614165753,"~/readme.md"
+-'  1  0  ~/my-first-repo/readme.md
+|4,39,1,0,1614165168,"~/my-first-repo/readme.md"
+-'  1  0  ~/my-first-repo/readme.md
+|4,39,1,0,1614165168,"~/my-first-repo/readme.md"
+-'  5  0  ~/thanh.txt
+|4,39,5,0,1614088813,"~/thanh.txt"
+-'  5  0  ~/thanh.txt
+|4,39,5,0,1614088813,"~/thanh.txt"
+-'  5  0  ~/thanh.txt
+|4,39,5,0,1614088813,"~/thanh.txt"
+-'  5  0  ~/thanh.txt
+|4,39,5,0,1614088813,"~/thanh.txt"
+-'  1  0  ~/thanh.txt
+|4,39,1,0,1614088798,"~/thanh.txt"
+-'  1  0  ~/thanh.txt
+|4,39,1,0,1614088798,"~/thanh.txt"
+-'  1  0  ~/thanh.txt
+|4,39,1,0,1614088798,"~/thanh.txt"
+-'  1  0  ~/thanh.txt
+|4,39,1,0,1614088798,"~/thanh.txt"
+-'  1  0  ~/thanh1.txt
+|4,39,1,0,1614088764,"~/thanh1.txt"
+-'  1  0  ~/thanh1.txt
+|4,39,1,0,1614088764,"~/thanh1.txt"
+-'  1  0  ~/thanh1.txt
+|4,39,1,0,1614088764,"~/thanh1.txt"
+-'  1  0  ~/thanh1.txt
+|4,39,1,0,1614088764,"~/thanh1.txt"
+-'  1  0  ~/thanh1.txt
+|4,39,1,0,1614088764,"~/thanh1.txt"
+-'  1  0  ~/thanh1.txt
+|4,39,1,0,1614088764,"~/thanh1.txt"
+-'  1  0  ~/thanh1.txt
+|4,39,1,0,1614088764,"~/thanh1.txt"
+-'  1  0  ~/thanh1.txt
+|4,39,1,0,1614088764,"~/thanh1.txt"
+-'  1  0  ~/awk_example1.sh
+|4,39,1,0,1614087657,"~/awk_example1.sh"
+-'  1  0  ~/awk_example1.sh
+|4,39,1,0,1614087657,"~/awk_example1.sh"
+-'  1  0  ~/awk_example1.sh
+|4,39,1,0,1614087657,"~/awk_example1.sh"
+-'  1  0  ~/awk_example1.sh
+|4,39,1,0,1614087657,"~/awk_example1.sh"
+-'  1  0  ~/awk_example1.sh
+|4,39,1,0,1614087657,"~/awk_example1.sh"
+-'  1  0  ~/awk_example1.sh
+|4,39,1,0,1614087657,"~/awk_example1.sh"
+-'  1  0  ~/awk_example1.sh
+|4,39,1,0,1614087657,"~/awk_example1.sh"
+-'  1  0  ~/awk_example1.sh
+|4,39,1,0,1614087657,"~/awk_example1.sh"
+-'  1  0  ~/awk_example1.sh
+|4,39,1,0,1614087657,"~/awk_example1.sh"
+-'  1  0  ~/awk_example1.sh
+|4,39,1,0,1614087657,"~/awk_example1.sh"
+-'  1  0  ~/awk_example1.sh
+|4,39,1,0,1614087657,"~/awk_example1.sh"
+-'  1  0  ~/awk_example1.sh
+|4,39,1,0,1614087657,"~/awk_example1.sh"
+-'  1  0  ~/awk_example1.sh
+|4,39,1,0,1614087657,"~/awk_example1.sh"
+-'  1  0  ~/awk_example1.sh
+|4,39,1,0,1614087657,"~/awk_example1.sh"
+-'  1  0  ~/awk_example1.sh
+|4,39,1,0,1614087657,"~/awk_example1.sh"
+-'  1  0  ~/awk_example1.sh
+|4,39,1,0,1614087657,"~/awk_example1.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  3  0  ~/loop.sh
+|4,39,3,0,1614056489,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
+-'  10  3  ~/loop.sh
+|4,39,10,3,1614056466,"~/loop.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/readme.md
+	*	1614165765	0
+	"	12	1
+	^	12	2
+	.	12	1
+	+	10	1
+	+	11	1
+	+	12	1
+
+> ~/my-first-repo/readme.md
+	*	1614165166	0
+	"	1	0
+
+> ~/thanh.txt
+	*	1614088811	0
+	"	5	0
+	^	5	0
+	.	5	0
+	+	18	5
+	+	49	7
+	+	1	11
+	+	2	13
+	+	3	16
+	+	5	0
+	a	19	0
+
+> ~/thanh1.txt
+	*	1614088762	0
+	"	1	0
+
+> ~/awk_example1.sh
+	*	1614087655	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/loop.sh
+	*	1614056486	0
+	"	3	0
+	^	3	0
+	.	3	0
+	+	10	3
+	+	3	0
+
+> ~/dirtest.sh
+	*	1614055958	0
+	"	11	25
+	^	11	26
+	.	11	25
+	+	20	0
+	+	11	4
+	+	14	27
+	+	11	25
+
+> ~/cmd.sh
+	*	1614054719	0
+	"	5	12
+	^	5	13
+	.	5	12
+	+	5	32
+	+	1	11
+	+	2	35
+	+	6	0
+	+	1	2
+	+	5	12
+
+> ~/s.sh
+	*	1614053878	0
+	"	3	28
+	^	3	29
+	.	3	28
+	+	1	50
+	+	2	13
+	+	3	30
+	+	4	22
+	+	3	28
+	+	1	0
+	+	2	5
+	+	3	28
+
+> ~/cs.sh
+	*	1614052629	0
+	"	6	0
+	^	6	0
+	.	6	0
+	+	6	0
 
 > ~/k
 	*	1613577285	0
@@ -333,16 +428,6 @@
 	^	7	4
 	.	7	3
 	+	7	3
-
-> ~/thanh.txt
-	*	1611628491	0
-	"	1	2
-	^	1	3
-	.	1	2
-	+	18	5
-	+	49	7
-	+	1	2
-	a	19	0
 
 > ~/ntmy.sh
 	*	1611627070	0
